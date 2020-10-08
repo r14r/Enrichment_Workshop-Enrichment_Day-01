@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/node_modules.*": true,
+    "App-1-1_HTML-and-CSS/e2e": true,
+    "App-1-2_FirstSteps/www": true,
+    "App-1-2_FirstSteps/e2e": true
+  }
+}
